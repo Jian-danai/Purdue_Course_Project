@@ -1,12 +1,12 @@
 # Final Project ECE 50024
 
 # Full Run: Train & Test
-'''
+```
 CUDA_VISIBLE_DEVICES=0 python train.py --log_name "horse2zebra_run1"
 ```
 
 # Test
-'''
+```
 CUDA_VISIBLE_DEVICES=0 python train.py --mode "test" --log_name "horse2zebra_run1" --epoch 200
 ```
 
@@ -30,4 +30,4 @@ dataset_name
             
             --testB
             
-           
+           ```
