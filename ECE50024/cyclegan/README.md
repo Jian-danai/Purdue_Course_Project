@@ -10,7 +10,7 @@ Replace 'horse2zebra' to any other dataset name from CycleGAN. You can add any s
 
 Rememeber the dataset structure must be: 
 
-dataset_name--trainA
+'dataset_name--trainA
 
             |
             
@@ -22,4 +22,4 @@ dataset_name--trainA
             
             |
             
-            --testB
+            --testB`
