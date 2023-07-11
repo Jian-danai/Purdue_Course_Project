@@ -1,0 +1,13 @@
+CATEGORY_ID,CATEGORY_NAME
+0,actor
+1,actress
+2,archive_footage
+3,archive_sound
+4,cinematographer
+5,composer
+6,director
+7,editor
+8,producer
+9,production_designer
+10,self
+11,writer
